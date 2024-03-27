@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AND_SYNRGY 7_Surya Luqman Fathulloh_Challenge Chapter2</string>
+    <string name="tip_time">Tip Time</string>
+    <string name="cost_of_service">Biaya Layanan</string>
+    <string name="how_was_the_service">Bagaimana Layanannya?</string>
+    <string name="round_up_tip">Bulatkan Tip?</string>
+    <string name="calculate">Hitung</string>
+    <string name="tip_amount">Jumlah Tip</string>
+    <string name="amazing">Luar Biasa (20%)</string>
+    <string name="good">Bagus (18%)</string>
+    <string name="ok">Ok (15%)</string>
+</resources>
